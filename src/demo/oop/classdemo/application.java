@@ -10,6 +10,7 @@ public class application {
 
         person zhaoshan = new person();
         zhaoshan.name="zhaosan";
+        zhaoshan.age=55;
         System.out.println(zhaoshan.name);
 
 
