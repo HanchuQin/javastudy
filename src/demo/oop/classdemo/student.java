@@ -5,6 +5,7 @@ public class student {
     private String name;
     int age;
 
+
     public int getXuehao() {
         return xuehao;
     }
@@ -29,6 +30,11 @@ public class student {
         if (age<120 || age>0){
             this.age = age;
         }else this.age=0;
+    //方法重载
+//
+//    public void setAge(int age ,String name){
+//
+//        };
 
     }
 }
