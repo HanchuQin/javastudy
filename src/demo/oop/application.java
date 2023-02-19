@@ -1,5 +1,6 @@
 package demo.oop;
 
+import demo.oop.classdemo.friend;
 import demo.oop.classdemo.person;
 import demo.oop.classdemo.student;
 
@@ -15,6 +16,7 @@ public class application {
         student zhaodehan = new student();
         zhaodehan.setAge(2);
 
-
+        friend xueshengxiaoming = new friend();
+        xueshengxiaoming.say();
     }
 }
