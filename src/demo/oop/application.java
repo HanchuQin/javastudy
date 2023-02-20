@@ -1,22 +1,25 @@
 package demo.oop;
 
 import demo.oop.classdemo.friend;
-import demo.oop.classdemo.person;
-import demo.oop.classdemo.student;
+import demo.oop.classdemo.Person;
+import demo.oop.classdemo.Student;
 
 public class application {
     public static void main(String[] args) {
         //将main方法移动到外面的包来了，所以以下注释的内容会因为属性私有了且没有设置public方法而无法调用
-//        person wangwu = new person();
+        Person wangwu = new Person("s",28,"man");
 //        wangwu.age=3;
-//        wangwu.name= "steve";
-//        wangwu.sex="man";
 //        System.out.println(wangwu.a());
 //        但是student类设置了public方法，可以进行调用
-        student zhaodehan = new student();
-        zhaodehan.setAge(2);
+
 
         friend xueshengxiaoming = new friend();
         xueshengxiaoming.say();
+
+        Person s1 = new Student();//引用类型转换
+        System.out.println(s1 instanceof Person);//用instanceof 判断两者是否具有父子关系，返回boolean
+        
+        
+
     }
 }

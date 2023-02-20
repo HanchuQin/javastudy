@@ -1,12 +1,6 @@
 package demo.oop.classdemo;
 
-/**
- * @ClassName friend
- * @Description TODO
- * @Author gmh
- * @Date 2023/2/18 16:45
- * @Version 1.0
- */
+
 
 /*练习继承，
     【super使用的注意的地方】
@@ -57,10 +51,10 @@ new一个对象时的初始化顺序：
 5.子类普通方法
 6.子类无参构造方法
  */
-public class friend extends person {
+public class friend extends Person {
 @Override
     public void say(){
         System.out.println("friend类在叫");
-    };
+    }
 
 }
