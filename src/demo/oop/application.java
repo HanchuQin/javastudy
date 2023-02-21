@@ -18,8 +18,14 @@ public class application {
 
         Person s1 = new Student();//引用类型转换
         System.out.println(s1 instanceof Person);//用instanceof 判断两者是否具有父子关系，返回boolean
-        
-        
+        //对象名 instanceof 类名 判断对象是否与类存在父子关系
+        //多态时：父类与子类转换
+        //1.从小到大 自动转换 右边赋值给左边
+                Person wang= new Student();
+        //        大                   小
+        //2.从大到小 强制转换 右边赋值给左边
+                Student zhang = (Student) new Person();
+        //            小                   大
 
     }
 }
