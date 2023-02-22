@@ -54,7 +54,11 @@ new一个对象时的初始化顺序：
 public class friend extends Person {
 @Override
     public void say(){
+    try {
         System.out.println("friend类在叫");
+    } catch (Exception e) {
+        throw new RuntimeException(e);
     }
+}
 
 }
