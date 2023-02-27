@@ -1,5 +1,9 @@
 package demo.oop.lambda;
 
+import java.util.function.Predicate;
+
+import static jdk.internal.vm.PostVMInitHook.run;
+
 public class demo1 {
 
 
@@ -19,6 +23,10 @@ public class demo1 {
 
     }
 
+    public void test03(){
 
+    Predicate<> predicate = 
+
+    }
 
 }
