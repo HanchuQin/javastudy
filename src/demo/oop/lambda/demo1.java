@@ -2,8 +2,6 @@ package demo.oop.lambda;
 
 import java.util.function.Predicate;
 
-import static jdk.internal.vm.PostVMInitHook.run;
-
 public class demo1 {
 
 
