@@ -1,4 +1,4 @@
-package demo.oop;
+package demo;
 
 import demo.oop.classdemo.friend;
 import demo.oop.classdemo.Person;
