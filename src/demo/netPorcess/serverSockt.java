@@ -9,9 +9,7 @@ public class serverSockt {
     public static void main(String[] args) {
         try {
             ServerSocket fwd = new ServerSocket(8888);
-            Socket accept =fwd.accept();
-            accept.getInputStream();
-
+            final Socket accept = fwd.accept();
 
         }catch (Exception e){
             e.getStackTrace();
