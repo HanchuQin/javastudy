@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f30f723-26e1-4aac-a483-36e7642d2033" name="变更" comment="ctl +alt +t 选中需要try 监控的区域">
+      <change afterPath="$PROJECT_DIR$/demo/oop/lambda/demo1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="5e2893f5-092d-41ef-8f12-889c82fe7ed5" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="5e2893f5-092d-41ef-8f12-889c82fe7ed5" />
+        <option name="url" value="git@github.com:HanchuQin/javastudy.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/demo/oop/application.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/demo/oop/classdemo/Student.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2LpJ90FRb6q0bBdRLDWJJhK9raI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "build.tools",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="应用程序.demo1">
+    <configuration name="application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.oop.classdemo.application" />
+      <module name="javatest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.oop.classdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.oop.lambda.demo1" />
+      <module name="javatest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.oop.lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo.oop.application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.oop.application" />
+      <module name="javatest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.demo1" />
+        <item itemvalue="应用程序.demo.oop.application" />
+        <item itemvalue="应用程序.application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="4f30f723-26e1-4aac-a483-36e7642d2033" name="变更" comment="" />
+      <created>1676561937295</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676561937295</updated>
+      <workItem from="1676561940179" duration="4006000" />
+      <workItem from="1676640547135" duration="58000" />
+      <workItem from="1676640615119" duration="19000" />
+      <workItem from="1676641380155" duration="3209000" />
+      <workItem from="1676721100412" duration="105000" />
+      <workItem from="1676729303561" duration="1483000" />
+      <workItem from="1676778628763" duration="663000" />
+      <workItem from="1676795821813" duration="2765000" />
+      <workItem from="1676906878896" duration="1414000" />
+      <workItem from="1676989504365" duration="1671000" />
+      <workItem from="1677077057534" duration="1785000" />
+      <workItem from="1677161464989" duration="1238000" />
+      <workItem from="1677163244685" duration="122000" />
+      <workItem from="1677163374451" duration="397000" />
+    </task>
+    <task id="LOCAL-00001" summary="this night learn class again.">
+      <created>1676563751438</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676563751438</updated>
+    </task>
+    <task id="LOCAL-00002" summary="this night learn class again.">
+      <created>1676563787773</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676563787773</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test new git repository">
+      <created>1676565833405</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676565833405</updated>
+    </task>
+    <task id="LOCAL-00004" summary="构造器学习，默认无参构造，当创建形参构造时必须存在无参构造。快捷键alt+insert">
+      <created>1676645029590</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676645029590</updated>
+    </task>
+    <task id="LOCAL-00005" summary="学习封装，属性私有 get/set 高内聚，低耦合。 一般通过set方法做判断进行有效性校验。 快捷键 alt+insert">
+      <created>1676646346093</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676646346093</updated>
+    </task>
+    <task id="LOCAL-00006" summary="学习封装，属性私有 get/set 高内聚，低耦合。 一般通过set方法做判断进行有效性校验。 快捷键 alt+insert  方法的重载，方法名相同、但参数不同(个数、类型、参数排列顺序)。&#10;如果说方法名相同、参数也相同说明是同一个方法。">
+      <created>1676646818221</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676646818221</updated>
+    </task>
+    <task id="LOCAL-00007" summary="添加了继承、重写的注释">
+      <created>1676734146370</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676734146370</updated>
+    </task>
+    <task id="LOCAL-00008" summary="学习继承、重写，并实践。下一步可能试一下初始化顺序。">
+      <created>1676816341441</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676816341441</updated>
+    </task>
+    <task id="LOCAL-00009" summary="了解多态和引用类型转化">
+      <created>1676908277314</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676908277314</updated>
+    </task>
+    <task id="LOCAL-00010" summary="更了解多态和引用类型转化，以及大小转化的问题。">
+      <created>1676992762154</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676992762154</updated>
+    </task>
+    <task id="LOCAL-00011" summary="更了解多态和引用类型转化，以及大小转化的问题。">
+      <created>1676992771913</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1676992771913</updated>
+    </task>
+    <task id="LOCAL-00012" summary="ctl +alt +t 选中需要try 监控的区域">
+      <created>1677080294438</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1677080294438</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="this night learn class again." />
+    <MESSAGE value="test new git repository" />
+    <MESSAGE value="构造器学习，默认无参构造，当创建形参构造时必须存在无参构造。快捷键alt+insert" />
+    <MESSAGE value="学习封装，属性私有 get/set 高内聚，低耦合。 一般通过set方法做判断进行有效性校验。 快捷键 alt+insert" />
+    <MESSAGE value="学习封装，属性私有 get/set 高内聚，低耦合。 一般通过set方法做判断进行有效性校验。 快捷键 alt+insert  方法的重载，方法名相同、但参数不同(个数、类型、参数排列顺序)。&#10;如果说方法名相同、参数也相同说明是同一个方法。" />
+    <MESSAGE value="添加了继承、重写的注释" />
+    <MESSAGE value="学习继承、重写，并实践。下一步可能试一下初始化顺序。" />
+    <MESSAGE value="了解多态和引用类型转化" />
+    <MESSAGE value="更了解多态和引用类型转化，以及大小转化的问题。" />
+    <MESSAGE value="ctl +alt +t 选中需要try 监控的区域" />
+    <option name="LAST_COMMIT_MESSAGE" value="ctl +alt +t 选中需要try 监控的区域" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,36 @@
+Index: demo/oop/classdemo/application.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package demo.oop.classdemo;\r\n\r\npublic class application {\r\n    public static void main(String[] args) {\r\n        person wangwu = new person();\r\n        wangwu.age=3;\r\n        wangwu.name= \"steve\";\r\n        wangwu.sex=\"man\";\r\n        System.out.println(wangwu.a());\r\n\r\n        person zhaoshan = new person();\r\n        zhaoshan.name=\"zhaosan\";\r\n        zhaoshan.age=55;\r\n        System.out.println(zhaoshan.name);\r\n\r\n\r\n\r\n    }\r\n}\r\n
+===================================================================
+diff --git a/demo/oop/classdemo/application.java b/demo/oop/classdemo/application.java
+--- a/demo/oop/classdemo/application.java	
++++ b/demo/oop/classdemo/application.java	
+@@ -2,18 +2,15 @@
+ 
+ public class application {
+     public static void main(String[] args) {
+-        person wangwu = new person();
+-        wangwu.age=3;
+-        wangwu.name= "steve";
+-        wangwu.sex="man";
+-        System.out.println(wangwu.a());
+-
+-        person zhaoshan = new person();
+-        zhaoshan.name="zhaosan";
+-        zhaoshan.age=55;
+-        System.out.println(zhaoshan.name);
++        person zhaoxin = new person("zhaoxin", 23, "women");
++        System.out.println(String.valueOf(zhaoxin.name));
+ 
+-
+-
++        student wangsheng = new student();
++        wangsheng.age=4;
++        System.out.println(wangsheng.age);
++        System.out.println(wangsheng.getAge());
++        wangsheng.setAge(50);
++        System.out.println(wangsheng.age);
++        System.out.println(wangsheng.getAge());
+     }
+ }
